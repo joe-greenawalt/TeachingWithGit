@@ -1,3 +1,5 @@
+# Python Lesson Plan
+
 # Lesson Plan Template
 This file serves as the primary lesson plan document for the repository.
 
